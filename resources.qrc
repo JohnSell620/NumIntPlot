@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/intsymb.jpg</file>
+    </qresource>
+</RCC>
